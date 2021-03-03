@@ -7,3 +7,4 @@
 - git add: Add changes to working directory
 - git commit: commit changes to staging area
 - git branch -b "name" adds and switches to it
+- git to add to master branch

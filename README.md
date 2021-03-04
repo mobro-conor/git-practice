@@ -8,3 +8,4 @@
 - git commit: commit changes to staging area
 - git branch -c "name" creates a branch
 - adding via github web
+- - adding a commit

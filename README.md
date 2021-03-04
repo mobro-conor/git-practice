@@ -9,3 +9,4 @@
 - git branch -c "name" creates a branch
 - adding via github web
 - - adding a commit
+- - - adding last line to read.md
